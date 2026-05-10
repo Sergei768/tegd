@@ -1,6 +1,8 @@
-# tag
+# tagd
 
 Minimal CLI utility for storing file comments and tags inside local `.filetags` databases.  
+
+![Demo](video.gif)
 
 ## Commands
 
@@ -19,10 +21,10 @@ Minimal CLI utility for storing file comments and tags inside local `.filetags` 
 pipx install nuitka
 ```
 ```
-python -m nuitka --onefile --follow-imports tag.py
+python -m nuitka --onefile --follow-imports tagd.py
 ```
 ```
-sudo mv dist/tag /usr/local/bin/tag
+sudo mv dist/tagd /usr/local/bin/tagd
 ```
 ```
 sudo chmod +x /usr/local/bin/tagd
