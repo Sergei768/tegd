@@ -1,6 +1,6 @@
 # tagd
 
-Minimal CLI utility for storing file comments and tags inside local `.filetags` databases.  
+Minimal CLI utility for storing file comments and tags.  
 
 ![Demo](video.gif)
 
