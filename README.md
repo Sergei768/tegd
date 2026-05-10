@@ -24,3 +24,6 @@ python -m nuitka --onefile --follow-imports tag.py
 ```
 sudo mv dist/tag /usr/local/bin/tag
 ```
+```
+sudo chmod +x /usr/local/bin/tagd
+```
